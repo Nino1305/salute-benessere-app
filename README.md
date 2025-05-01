@@ -1,3 +1,3 @@
 # Salute e Benessere Tracker
 
-Versione completa della Web App con alimentazione, passi e antistress.
+Versione con notifiche della Web App per monitoraggio dieta, passi e antistress.
